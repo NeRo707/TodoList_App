@@ -1,3 +1,3 @@
-## LIVE VIEW
-https://nerostodolistapp1.netlify.app/
+# LIVE VIEW
+## URL: https://todoolistappfromnero.netlify.app/
 
